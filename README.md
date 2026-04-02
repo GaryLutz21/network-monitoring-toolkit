@@ -64,6 +64,7 @@ The system uses three main tables:
    ```sql
    sql/schema.sql
   Feel free to modify the hosts table to include additional hosts depending on your monitoring needs.
+  
 3. Configure database credentials in:
 app/db.py
 4. Run the application:
