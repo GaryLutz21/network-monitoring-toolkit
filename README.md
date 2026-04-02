@@ -71,7 +71,7 @@ app/db.py
 python app/main.py
 
 ## 📊 Visualization
-Data can be exported to CSV and analyzed in Power BI for:
+Data can be exported to CSV and analyzed in Power BI for: 
 - Availability dashboards
 - Latency analysis
 - Host status tracking
