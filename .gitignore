@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+venv/
+report.csv
+checks_report.csv
+grafica.pbix
